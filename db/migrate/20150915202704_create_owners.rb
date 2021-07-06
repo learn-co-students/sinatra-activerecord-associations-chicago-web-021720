@@ -9,3 +9,5 @@ class CreateOwners < ActiveRecord::Migration
     drop_table :owners
   end
 end
+
+
